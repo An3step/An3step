@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Anton Stepanov aka An3step!
 
-<!--
-**An3step/An3step** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Python Developer | Backend & ML Enthusiast
+Passionate about building efficient systems and exploring data-driven solutions through code.
 
-Here are some ideas to get you started:
+## 🔥 Featured Skills
+`Python` `Django` `FastAPI` `PostgreSQL` `Docker` `Machine Learning` `REST APIs` `Git`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Current Projects
+- **[Filter Image App](https://github.com/An3step/PKG3)**  
+  App providing image' filtering  
+  `Python` `PyQt6` `OpenCV`
+
+- **[Ghost Chasing](https://github.com/An3step/Ghosts)**  
+  Project to learn PyGame copabilities
+  `PyQt` `PyGame` `PyMenu`
+
+## 🌱 Learning & Exploring
+- Advanced FastAPI concepts
+- MLOps and model deployment
+- Async programming patterns
+- System design principles
+
+## 📊 GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=An3step&show_icons=true&theme=radical)](https://github.com/An3step)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=An3step&layout=compact&theme=radical)](https://github.com/An3step)
+
+## 📫 Let's Connect
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram)](https://t.me/Anokic)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail)](mailto:an3step@gmail.com)
